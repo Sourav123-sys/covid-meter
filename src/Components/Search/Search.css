@@ -1,0 +1,12 @@
+.heading {
+    background-color: #212529;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.search-div {
+    margin-top: 100px;
+}

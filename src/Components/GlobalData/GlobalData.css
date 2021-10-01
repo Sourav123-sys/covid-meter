@@ -1,0 +1,10 @@
+.cases-true {
+    background-color: #FFEEAA !important;
+}
+.deaths-true {
+    background-color: rgba(255, 0, 0, 0.747) !important;
+    color: white;
+}
+.recovered-true {
+    background-color: #c8e6c9 !important;
+}

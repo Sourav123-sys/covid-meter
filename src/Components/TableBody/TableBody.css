@@ -1,0 +1,16 @@
+.display-false {
+    display: none;
+}
+td,tr {
+    font-weight: 700;
+    text-align: center;
+}
+tbody {
+    overflow: scroll;
+}
+.table-rs, .table-responsive {
+    border: 1px solid gray !important;
+}
+.table {
+    margin-bottom: 0;
+}
